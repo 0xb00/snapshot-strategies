@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "erc20-balance-of-limited",
+      "params": {
+        "limit": 0.04,
+        "symbol": "MOONEY",
+        "address": "0x20d4db1946859e2adb0e5acc2eac58047ad41395",
+        "decimals": 18
+      }
+    },
+    "network": "1",
+    "addresses": [
+      "0xf1d94859749501256d0273754de6ca736be86cb4",
+      "0xa357f162fe9c383edeee81fbc905c4bc7fca166f",
+      "0x697b771f18ba878b81d00b652046fe601da433ad",
+      "0x2b837d661b9382a67a197ce9074d7788be3edf79",
+      "0x597463fd14797a0f5d2feb9abbf4e96a9513d6f5"
+    ],
+    "snapshot": 14040319
+  }
+]
